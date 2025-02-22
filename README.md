@@ -1,6 +1,5 @@
 # Factorial and Fibonacci Sequence Calculator
-#Elizabeth Omari
- #EB3/61532/22
+# Elizabeth Omari # EB3/61532/22
 ## Description
 This project contains two programs:
 1. A program to calculate the **factorial** of a given number.
